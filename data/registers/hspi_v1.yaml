@@ -1,5 +1,5 @@
-block/HSPI1:
-  description: HSPI1.
+block/HSPI:
+  description: HSPI.
   items:
   - name: HSPI_CR
     description: HSPI control register.
